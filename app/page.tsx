@@ -41,7 +41,7 @@ const Home = () => {
     },
     {
       id: 3,
-      logo: "/capital.png",
+      logo: "/cap1.jpeg",
       title: "Capital on Tap",
       features: [
         { subtitle: "Cashback Option", content: "Earn 1.5% cashback" },
